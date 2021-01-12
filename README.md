@@ -7,4 +7,4 @@
  ----       
         
 - 🔭 I’m currently an intern at https://github.com/voorhoede
-- 🌱 I’m currently working with multiple frontend frameworks for different projects (Svelte, Vue, React, Custom/Vanilla static sites with 11ty etc.)
+- 🌱 I’m currently working and learning with multiple frontend frameworks and setups for different projects
